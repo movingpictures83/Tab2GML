@@ -1,0 +1,2 @@
+Prefix plugins/Tab2GML/example/
+Plugin Tab2GML inputfile net1.tab outputfile net1.gml
